@@ -1,0 +1,23 @@
+.ColorPage {
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.ColorPage p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 3rem;
+}
+.ColorPage a {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 3rem;
+    text-decoration: none;
+}
+
+.ColorPage a:hover {
+    text-decoration: underline;
+}
